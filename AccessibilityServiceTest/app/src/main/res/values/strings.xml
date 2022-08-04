@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">自动连点器</string>
+
+    <string name="accessibility_description">This is description of accessibility.</string>
+
+    <string name="click_duration_description">点击间隔\n点击间隔，每n毫秒点击一次，决定点击速度。数值越小，速度越快，最小值为50毫秒</string>
+    <string name="touch_duration_description">触摸时长\n每次模拟点击触摸屏幕的时长，从按下到抬起，太短可能导致点击无效，最小数为10毫秒</string>
+    <string name="click_count_description">执行次数\n循环执行多少次，0表示无限次</string>
+</resources>

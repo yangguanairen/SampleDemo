@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/18897/Desktop/AccessibilityServiceTest/app/src/main/res/drawable/ic_click.xml" value="0.223" />
+        <entry key="..\:/Users/18897/Desktop/AccessibilityServiceTest/app/src/main/res/drawable/shape_floating_window_control.xml" value="0.2265" />
+        <entry key="..\:/Users/18897/Desktop/AccessibilityServiceTest/app/src/main/res/layout/activity_main.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/18897/Desktop/AccessibilityServiceTest/app/src/main/res/layout/floating_window_control.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/18897/Desktop/AccessibilityServiceTest/app/src/main/res/layout/floating_window_normal.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/18897/Desktop/AccessibilityServiceTest/app/src/main/res/xml/accessibility_config.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/18897/Desktop/myData/个人/AccessibilityServiceTest/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/18897/Desktop/myData/个人/AccessibilityServiceTest/app/src/main/res/layout/activity_setting.xml" value="0.28177083333333336" />
+        <entry key="..\:/Users/18897/Desktop/myData/个人/AccessibilityServiceTest/app/src/main/res/layout/floating_window_control.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/18897/Desktop/myData/个人/AccessibilityServiceTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.238" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressABINotification">
+    <option name="modulesWithSuppressedNotConfigured">
+      <set>
+        <option value="AccessibilityServiceTest.app" />
+      </set>
+    </option>
+  </component>
+</project>
